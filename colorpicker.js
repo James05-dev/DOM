@@ -25,6 +25,7 @@ console.log(count);
 const btn = document.getElementById("start-count-btn");
 console.log(btn);
 
+
 let wordCountValue = 0;
 let wordCounterTextAreaValue = "";
 wordCounterTextArea.addEventListener("input", (e) => {
